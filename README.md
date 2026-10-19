@@ -363,7 +363,7 @@ LIMIT 10
 
 ---
 
-## 🧠 Conceitos aplicados (mapa para entrevistas)
+## 🧠 Conceitos aplicados
 
 ### 🔧 Engenharia de Dados
 
